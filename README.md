@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Cognitive psychology,cognition domains and network science.
 - 💞️ I’m not looking to collaborate on anything right now.
 - 📫 How to reach me jami.moharari@gmail.com
-- ⚡ Fun fact: Sky is not really blue, so our senses are not always reliable.
+- ⚡ Fun fact: Sky is not actually blue, so our senses are not always reliable.
 
 <!---
 ErfanJM/ErfanJM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
